@@ -1,0 +1,11 @@
+Kabash/.vs/
+Kabash/Kabash.UnitTests/bin/
+Kabash/Kabash.UnitTests/obj/
+Kabash/Kabash/obj/Debug/Kabash.csproj.FileListAbsolute.txt
+Kabash/Kabash/obj/
+Kabash/Kabash.Unity/obj/
+Kabash/packages/
+Kabash/Kabash.Unity/bin/
+Kabash/Kabash/bin/
+.build/
+user.properties.json

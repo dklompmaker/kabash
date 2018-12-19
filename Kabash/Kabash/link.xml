@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="Kabash">
+    <type fullname="AOFL.Kabash.*" preserve="all"/>
+  </assembly>
+</linker>

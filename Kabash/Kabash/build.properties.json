@@ -1,0 +1,8 @@
+{
+    "nuget_feeds": {
+        "debug": "https://proget.aofl.com/nuget/AOFL-Unity-Development/",
+        "release": "https://proget.aofl.com/nuget/AOFL-Unity/"
+    },
+    "unity_target_path": "",
+    "include": []
+}
